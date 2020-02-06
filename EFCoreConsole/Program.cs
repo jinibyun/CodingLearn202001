@@ -29,7 +29,7 @@ namespace EFCoreConsole
             // DeleteData(1);
 
             // 4. Query
-            // GetData();
+            GetData();
 
             // 5. Query
             // GetData("Jini");         

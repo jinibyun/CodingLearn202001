@@ -17,3 +17,4 @@ Therefore, we added global.json based on following url recommendation: https://g
 
 6. refer to https://www.entityframeworktutorial.net/efcore/working-with-stored-procedure-in-ef-core.aspx to work with stored proc
 
+7. after code analysis (Program.cs), then exercise of migrations (using dotnet CLI) with "data seed" OnModelCreating(ModelBuilder modelBuilder)
