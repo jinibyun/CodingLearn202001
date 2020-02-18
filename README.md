@@ -10,3 +10,6 @@ The following intensive project base course of 12 weeks will enhance your knowle
  - 5th week: **Angular 8 - Basic 2** 
  - 6th week: **Simple Angular Project** 
  - 7th week - 12th week (6 weeks): **Dating App Project with .net and angular** 
+
+### Assignment Schedule
+Please go to [Trello](https://trello.com/b/0OlUdEM0)
