@@ -82,6 +82,7 @@ function factorial(number) {
 }
 console.log(factorial(6));
 // Anonymous recursive function
+// self invoking function :https://blog.mgechev.com/2012/08/29/self-invoking-functions-in-javascript-or-immediately-invoked-function-expression/
 (function () {
     var x = "Hello";
     console.log(x);
