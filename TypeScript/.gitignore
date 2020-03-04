@@ -1,0 +1,5 @@
+# User-specific files
+*.js
+
+# Build results
+[Ss]cripts/
